@@ -1,0 +1,14 @@
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.deps.json
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.runtimeconfig.json
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.runtimeconfig.dev.json
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.dll
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.pdb
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.DAL.dll
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\bin\Debug\netcoreapp2.0\NetFlox.DAL.pdb
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.csprojAssemblyReference.cache
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.csproj.CoreCompileInputs.cache
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.AssemblyInfoInputs.cache
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.AssemblyInfo.cs
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.csproj.CopyComplete
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.dll
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\NetFlox\obj\Debug\netcoreapp2.0\NetFlox.pdb

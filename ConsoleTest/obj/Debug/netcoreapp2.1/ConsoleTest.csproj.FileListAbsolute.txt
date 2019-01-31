@@ -1,0 +1,14 @@
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.deps.json
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.runtimeconfig.json
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.runtimeconfig.dev.json
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.dll
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\ConsoleTest.pdb
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\NetFlox.DAL.dll
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\bin\Debug\netcoreapp2.1\NetFlox.DAL.pdb
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csprojAssemblyReference.cache
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.AssemblyInfoInputs.cache
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.AssemblyInfo.cs
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.csproj.CopyComplete
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.dll
+D:\arthur\Documents\Cours\LP_Dawin\NET\FormationAspNetCore\NetFlox\ConsoleTest\obj\Debug\netcoreapp2.1\ConsoleTest.pdb
